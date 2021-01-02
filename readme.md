@@ -34,6 +34,11 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="Akhilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharmamonu1515&show_icons=true&hide_border=true" />
+
+
 [freelancer]: https://www.freelancer.com/u/akhileshsharma09
 [facebook]: https://www.facebook.com/profile.php?id=100002855547226
 [twitter]: https://twitter.com/akhiles26101623
