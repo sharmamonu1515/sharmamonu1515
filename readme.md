@@ -1,13 +1,11 @@
 ### Hi there, I'm Akhilesh ###
 
 ## Full Stack Developer ##
-- I'm  currently working as Part Time [Freelancer][freelancer]
-- I'm currently learning React JS, Node
+- I'm currently learning React JS, Node JS, MERN
 - Specialized in eCommerce and API integrations
-- I'm looking to collaborate with other freelancers or companies
+- I'm looking to collaborate with more developers or companies
 
 ### Connect with me:
-[<img align="left" alt="freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][freelancer]
 [<img align="left" alt="freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitter]
 [<img align="left" alt="freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
