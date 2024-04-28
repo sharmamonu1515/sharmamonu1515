@@ -1,7 +1,7 @@
 ### Hi there, I'm Akhilesh ###
 
 ## Full Stack Developer ##
-- I'm currently learning React JS, Node JS, MERN
+- I'm currently working in Laravel, React, Node, MERN, Wordpress, Codeigniter
 - Specialized in eCommerce and API integrations
 - I'm looking to collaborate with more developers or companies
 
