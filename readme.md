@@ -49,17 +49,17 @@ I'm actively looking to collaborate with:
 
 ## 🌐 Connect with Me
 
-<a href="https://www.facebook.com/profile.php?id=100002855547226" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100002855547226" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="24" alt="Facebook" />
 </a>
-<a href="https://twitter.com/akhiles26101623" target="_blank">
+<a href="https://twitter.com/akhiles26101623" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="24" alt="Twitter" />
 </a>
-<a href="https://www.instagram.com/meakay47/" target="_blank">
+<a href="https://www.instagram.com/meakay47/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="24" alt="Instagram" />
 </a>
-<a href="https://www.freelancer.com/u/akhileshsharma09" target="_blank">
-  <img src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg" width="24" alt="Freelancer" />
+<a href="https://www.freelancer.com/u/akhileshsharma09" target="_blank" style="text-decoration: none;">
+  <img src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg" width="100" alt="Freelancer" />
 </a>
 
 ---
