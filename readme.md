@@ -49,10 +49,18 @@ I'm actively looking to collaborate with:
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg)](https://www.facebook.com/profile.php?id=100002855547226)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg)](https://twitter.com/akhiles26101623)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg)](https://www.instagram.com/meakay47/)
-[![Freelancer](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/freelancer.svg)](https://www.freelancer.com/u/akhileshsharma09)
+<a href="https://www.facebook.com/profile.php?id=100002855547226" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="24" alt="Facebook" />
+</a>
+<a href="https://twitter.com/akhiles26101623" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="24" alt="Twitter" />
+</a>
+<a href="https://www.instagram.com/meakay47/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="24" alt="Instagram" />
+</a>
+<a href="https://www.freelancer.com/u/akhileshsharma09" target="_blank">
+  <img src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg" width="24" alt="Freelancer" />
+</a>
 
 ---
 
