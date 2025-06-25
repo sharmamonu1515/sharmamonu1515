@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akhilesh Sharma
+# 👋 Hi, I'm Akhilesh
 
 ### Software Developer
 
