@@ -30,10 +30,12 @@ I'm a passionate full-time freelancer with over **7 years** of experience in web
 **Tools & Platforms**
 
 <p align="left">
+  <img alt="ChatGPT" title="ChatGPT" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
+  <img alt="GitHub Copilot" title="GitHub Copilot" width="40" src="https://avatars.githubusercontent.com/u/109383180?s=200&v=4" />
+  <img alt="Postman" title="Postman" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="Docker" title="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
   <img alt="VS Code" title="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Git" title="Git" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-  <img alt="Magento" title="Magento" width="40" src="https://cdn.worldvectorlogo.com/logos/magento.svg" />
-  <img alt="OpenCart" title="OpenCart" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/OpenCart_logo.png" />
 </p>
 
 ---
